@@ -30,5 +30,7 @@ const catalogue = [
     pineapple,
     kiwi,
 ];
+
+module.exports = { apple, banana, orange, pineapple, kiwi, catalogue }
  
    
